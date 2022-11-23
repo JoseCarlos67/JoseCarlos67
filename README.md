@@ -2,7 +2,7 @@
 
 📚 Atualmente estou no sexto período do curso de Bacharelado em Ciência da Computação
 <br>
-🚀 Estudando C# e outras tecnologias
+🚀 Estudando Java e outras tecnologias
 <br>
 🌌 Estudando Inglês
 <div align="center">
