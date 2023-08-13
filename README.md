@@ -16,9 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <div align="center">
-  <a href="https://github.com/JoseCarlos67">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseCarlos67&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos67&layout=compact&langs_count=10&theme=dark"/>
+ ![JoseCarlos67's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlos67&show_icons=true&theme=radical)
 </div>
 
 ### Contato
