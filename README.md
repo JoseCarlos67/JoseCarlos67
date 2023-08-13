@@ -15,9 +15,9 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<div align="center">
+
  ![JoseCarlos67's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseCarlos67&show_icons=true&theme=radical)
-</div>
+
 
 ### Contato
 <div>
