@@ -18,6 +18,10 @@
   <a href="mailto:josecarlos.silesteves@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCarlos67&layout=compact&theme=dark" />
+</div>
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=White&height=80&section=footer"
