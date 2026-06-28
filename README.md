@@ -1,6 +1,6 @@
 ## HELLO, I AM JOSÉ CARLOS!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&color=33FF33&width=200&lines=%2F%2F+Powered+by+Java+%26+Spring+Boot;%2F%2F+Styled+with+Angular;%2F%2F+Data+persisted+in+Oracle;%2F%2F+Shipped+with+Docker;%2F%2F+Always+learning%2C+always+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33FF33&width=435&lines=%2F%2F+Powered+by+Java+%26+Spring+Boot;%2F%2F+Styled+with+Angular;%2F%2F+Data+persisted+in+Oracle;%2F%2F+Shipped+with+Docker;%2F%2F+Always+learning%2C+always+coding)](https://git.io/typing-svg)
 
 <p>Bachelor in Computer Science from <a href="https://portal.pas.ifsuldeminas.edu.br"><i>Instituto Federal do Sul de Minas</i></a>.</p>
 
